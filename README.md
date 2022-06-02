@@ -8,7 +8,8 @@
 
 
 #Acknowledgements
-We thank a lot for the authors in Ref.[1]. The python library imgaug is used in our code (https://github.com/aleju/imgaug). Furthermore, We also would like to thank the authors of [CheXNet](https://arxiv.org/pdf/1711.05225.pdf) for sharing codes.
+
+We would like to thank a lot for the authors in Ref.[1]. The python library imgaug is used in our code (https://github.com/aleju/imgaug). Furthermore, We also would like to thank the authors of [CheXNet](https://arxiv.org/pdf/1711.05225.pdf) for sharing codes.
 
 
 #Reference
