@@ -7,9 +7,9 @@
 6. Training for single task of overall survival is performed using "trainattention112oTaskonlyOS.py
 
 
-Acknowledgements
+#Acknowledgements
 We thank a lot for the authors in Ref.[1]. The python library imgaug is used in our code (https://github.com/aleju/imgaug). Furthermore, We also would like to thank the authors of [CheXNet](https://arxiv.org/pdf/1711.05225.pdf) for sharing codes.
 
 
-Reference
+#Reference
 1. Mukherjee P, Zhou M, Lee E, et al. A shallow convolutional neural network predicts prognosis of lung cancer patients in multi-institutional computed tomography image datasets. Nature Machine Intelligence. 2020;2(5):274-282.
