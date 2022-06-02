@@ -1,14 +1,15 @@
 # KMAP-Net
-*Training
+* Training
 1. This is a multi-task framework for survival prediction of lung and gastric cancers.
 2. The multi-task include tumor stage, node stage, and survival prediction tasks.
 3. Datasets used in this study includes one public lung cancer study[1]
 4. The main survial net is showed in "attentionNet1117debug1.py'.
 5. Training and preprocessing is performed using "trainattention1120.py".
-*Software
-1. python 3.6.5
-2. Tensorflow 1.14.0
-3. keras 2.3.1
+
+* Software
+7. python 3.6.5
+8. Tensorflow 1.14.0
+9. keras 2.3.1
 
 
 # Acknowledgements
