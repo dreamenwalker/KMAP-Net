@@ -14,3 +14,8 @@ We would like to thank a lot for the authors in Ref.[1]. The python library imga
 
 #Reference
 1. Mukherjee P, Zhou M, Lee E, et al. A shallow convolutional neural network predicts prognosis of lung cancer patients in multi-institutional computed tomography image datasets. Nature Machine Intelligence. 2020;2(5):274-282.
+
+
+If our codes are helpful, please cite our paper:
+
+1.	Zhang L, Zhong L, Li C, et al. Knowledge-guided multi-task attention network for survival risk prediction using multi-center computed tomography images. Neural Netw. 2022;152:394-406.
